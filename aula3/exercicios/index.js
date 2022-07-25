@@ -1,0 +1,1 @@
+console.log('Meu nome é "Inaldo". Estou aprendendo Typescript as ',10,'da manhã')
